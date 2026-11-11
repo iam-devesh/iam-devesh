@@ -5,6 +5,7 @@
 
 <p>
   <a href="https://iam-devesh.github.io"><img src="https://img.shields.io/badge/Portfolio-iam--devesh.github.io-2B4CC8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/devesh-kumar-343188225/"><img src="https://img.shields.io/badge/LinkedIn-Devesh_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:im.devesh19@gmail.com"><img src="https://img.shields.io/badge/Email-im.devesh19%40gmail.com-16202B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
